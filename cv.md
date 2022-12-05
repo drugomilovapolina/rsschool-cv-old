@@ -29,7 +29,7 @@ const func = (num) => {
 };
 ```
 
-## Experience
+## Work experience
 ### Business Analyst
 *February 2022 - Present*
 * Requirements elicitation, analysis and documentation.
